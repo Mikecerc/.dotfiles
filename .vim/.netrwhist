@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/mike/.config/gtk-4.0'
+let g:netrw_dirhist_8='/home/mike/.config'
+let g:netrw_dirhist_7='/home/mike/.config/wlogout'
+let g:netrw_dirhist_6='/home/mike/.config'
+let g:netrw_dirhist_5='/home/mike/.config/wlogout'
+let g:netrw_dirhist_4='/home/mike/.config'
+let g:netrw_dirhist_3='/home/mike/.dotfiles/.config/swappy'
+let g:netrw_dirhist_2='/home/mike/.dotfiles/.config/waybar'
+let g:netrw_dirhist_1='/home/mike/.config/waybar'
+let g:netrw_dirhist_0='/home/mike/.config'

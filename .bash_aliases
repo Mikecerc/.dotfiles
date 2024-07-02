@@ -28,7 +28,7 @@ alias neofetch="pfetch"
 
 #system aliases
 alias shutdown="systemctl poweroff"
-alias startx="Hyprland"
+alias H="Hyprland"
 
 #archive aliases
 alias mktar='tar -cvf'
@@ -45,6 +45,7 @@ alias tree='tree -CAhF --dirsfirst'
 alias diskspace="du -S | sort -n -r |more"
 alias whatismyip="whatsmyip"
 alias pacman="sudo pacman"
+alias con="nmcli dev wifi connect"
 
 #git 
 alias ga="git add"
@@ -53,3 +54,6 @@ alias gp="git push"
 
 #config
 alias confh="$EDITOR ~/.config/hypr/hyprland.conf"
+
+#programs
+#alias clion="sh /opt/clion-2024.1.1/bin/clion.sh &"

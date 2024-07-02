@@ -1,2 +1,11 @@
 #god discord devs are annoying
 .config/discord
+#electron sucks
+.config/Code/
+.config/Code\ -\ OSS/
+.config/Docker\ Desktop/
+
+.config/github-copilot/
+
+.config/session/
+.config/JetBrains/

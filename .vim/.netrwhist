@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =0
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/mike/.dotfiles/.config/github-copilot'
+let g:netrw_dirhist_1='/home/mike/.vim'
 let g:netrw_dirhist_0='/home/mike/Documents/School/Ece101'
 let g:netrw_dirhist_9='/home/mike/Documents/School'
 let g:netrw_dirhist_8='/home/mike/Documents/School/Ece101'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_6='/home/mike/Documents/School/Ece101'
 let g:netrw_dirhist_5='/home/mike/Documents/School'
 let g:netrw_dirhist_4='/home/mike/Documents'
 let g:netrw_dirhist_3='/home/mike/scripts'
-let g:netrw_dirhist_2='/home/mike/.config/waybar'
-let g:netrw_dirhist_1='/home/mike/.config'

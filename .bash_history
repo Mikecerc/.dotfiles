@@ -1,7 +1,3 @@
-mv increase_volume.sh
-mv increases_volume.sh increase_volume.sh
-ls
-cat increase_volume.sh 
 vim increase_volume.sh 
 ./increase_volume.sh 
 ./increase_volume.sh 
@@ -497,4 +493,8 @@ hypr
 hyprland
 Hyprland
 Hyprland
+exit
+zsh
+exit
+bash
 exit
